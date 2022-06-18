@@ -1,1 +1,7 @@
-# Mario-Jump-Javascript
+# Mario Jump Game 
+
+### Tecnologias:
+
+- Javascript
+- Html
+- Css
